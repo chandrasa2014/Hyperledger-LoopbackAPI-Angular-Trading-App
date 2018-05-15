@@ -169,9 +169,3 @@ This application demonstrates a basic idea of a decentralized energy network usi
 * Integrating with IoT to read from power meter and distribute energy
 
 
-## Additional Resources
-* [Hyperledger Fabric Docs](http://hyperledger-fabric.readthedocs.io/en/latest/)
-* [Hyperledger Composer Docs](https://hyperledger.github.io/composer/introduction/introduction.html)
-
-## License
-[Apache 2.0](LICENSE)
